@@ -1,0 +1,5 @@
+1:这是个神奇的微信公众号《听风吟且行》
+2:PowerBy 听风吟且行
+3:博客-http://blog.iyu.pub
+
+20170822:在linux服务器执行如下语句即可：curl -X POST http://openapp.10010.com/bj/dre/Dre_addFive.action -d "teleNum=17600000000"
